@@ -1,5 +1,5 @@
 # Brain MRI Segmentation using Attention UNet
-
+## This is a GIF. Click on it!(In case it is not played for you)
 ![](https://github.com/fajan-py/BraTS-2020-Segmentation/blob/main/segmentation_pred_final.gif)
 
 
