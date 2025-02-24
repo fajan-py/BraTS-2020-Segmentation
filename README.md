@@ -1,5 +1,8 @@
 # Brain MRI Segmentation using Attention UNet
 
+![](https://github.com/fajan-py/BraTS-2020-Segmentation/blob/main/segmentation_pred_final.gif)
+
+
 ## Overview
 
 This project focuses on **brain tumor segmentation** using multi-modal MRI scans from the **BraTS 2020 dataset**. It employs an **Attention UNet** model for enhanced region-specific focus, combined with **TorchIO** for advanced preprocessing and realistic augmentation. The complete pipeline covers data loading, preprocessing, model training, evaluation, and visualization.
@@ -74,4 +77,7 @@ Also, due to limited resources, downsampling the brain MRIs and the resulting da
 - **Deep Learning in Radiology**: Showcases the power of deep learning for medical image analysis.
 
 ## Results & Illustrations
+![](https://github.com/fajan-py/BraTS-2020-Segmentation/blob/main/Screen%20Shot%201403-12-02%20at%2001.44.56.png)
+![](https://github.com/fajan-py/BraTS-2020-Segmentation/blob/main/Screen%20Shot%201403-12-02%20at%2001.45.png)
+![](https://github.com/fajan-py/BraTS-2020-Segmentation/blob/main/Screen%20Shot%201403-12-06%20at%2019.14.36.png)
 
